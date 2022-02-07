@@ -1,2 +1,2 @@
 # Kaladont
-Kaladont solution in develop branch
+Kaladont solution
