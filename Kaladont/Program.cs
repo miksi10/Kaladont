@@ -6,7 +6,7 @@ namespace Kaladont
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First commit to develop branch");
+            Console.WriteLine("Second commit to develop branch");
         }
     }
 }
