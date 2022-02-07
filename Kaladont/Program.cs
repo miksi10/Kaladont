@@ -11,6 +11,10 @@ namespace Kaladont
             Console.WriteLine("Third commit to develop branch");
 
             //this will maybe produce some conflicts .. :(
+
+            //Sad bi trebao za ovu liniju da bude ispred developa
+
+
         }
     }
 }
